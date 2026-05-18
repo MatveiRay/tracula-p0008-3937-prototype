@@ -1,0 +1,5 @@
+﻿# Minimal configuration excerpt for reproducibility
+interreg = 5
+usethalnuc = 0
+echospacing = 0.322866
+epifactor = 256
