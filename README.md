@@ -1,4 +1,4 @@
-﻿# TRACULA / FreeSurfer: subject P0008_3937
+﻿# TRACULA / FreeSurfer: P0008_3937
 
 This repository documents the current prototype for TRACULA-based white-matter tract reconstruction and the first QC layer for subject `P0008_3937`.
 
